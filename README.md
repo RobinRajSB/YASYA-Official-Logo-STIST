@@ -3,9 +3,9 @@
 
 ## Note: 
 
-Latest.png = Logo with DeepBlue BG
-latest1.png = Transparent Logo 
-latest3.png = Logo with White BG
+1. Latest.png = Logo with DeepBlue BG
+2. latest1.png = Transparent Logo 
+3. latest3.png = Logo with White BG
 
 # YASYA LOGO 
 
