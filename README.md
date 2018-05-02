@@ -1,6 +1,12 @@
 # YASYA-Official-Logo-STIST
  YASYA is a national level inter-college cultural and technical fest of  St.Thomas Institute for Science and tecnonology, Trivandrum
 
+## Note: 
+
+Latest.png = Logo with DeepBlue BG
+latest1.png = Transparent Logo 
+latest3.png = Logo with White BG
+
 # YASYA LOGO 
 
 ![latest](https://user-images.githubusercontent.com/11213043/39518354-4eb919d6-4e20-11e8-8908-5f50aeb3e127.png)
